@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1411 >>
+stream
+BT
+/F1 18 Tf
+50 760 Td
+(Documento de evaluación  Examen práctico Full Stack Junior) Tj
+0 -18 Td
+(Propósito) Tj
+0 -18 Td
+(Evaluar la capacidad de un candidato para desarrollar una solución funcional con:) Tj
+0 -18 Td
+(- NestJS) Tj
+0 -18 Td
+(- React) Tj
+0 -18 Td
+(- MySQL) Tj
+0 -18 Td
+(- Git) Tj
+0 -18 Td
+(Requisitos mínimos para considerarse aprobado) Tj
+0 -18 Td
+(- Backend funcionando con CRUD de productos) Tj
+0 -18 Td
+(- MySQL conectado y datos persistidos) Tj
+0 -18 Td
+(- Validaciones básicas implementadas) Tj
+0 -18 Td
+(- Frontend funcional para crear, listar, editar y borrar) Tj
+0 -18 Td
+(- README ejecutable) Tj
+0 -18 Td
+(- Repositorio Git con historial visible) Tj
+0 -18 Td
+(Rúbrica de evaluación) Tj
+0 -18 Td
+(Funcionalidad CRUD  25%) Tj
+0 -18 Td
+(Validaciones y errores  20%) Tj
+0 -18 Td
+(Frontend y consumo de API  20%) Tj
+0 -18 Td
+(Modelo de datos y base de datos  15%) Tj
+0 -18 Td
+(Calidad del código  10%) Tj
+0 -18 Td
+(Git y documentación  10%) Tj
+0 -18 Td
+(Puntuación sugerida) Tj
+0 -18 Td
+(90-100: Excelente) Tj
+0 -18 Td
+(75-89: Aprobado) Tj
+0 -18 Td
+(60-74: Aprobado con observaciones) Tj
+0 -18 Td
+(0-59: No satisfactorio) Tj
+0 -18 Td
+(Enunciado para el candidato) Tj
+0 -18 Td
+(Crear una aplicación full-stack para gestionar un catálogo de productos de una tienda.) Tj
+0 -18 Td
+(Debe incluir NestJS, React, MySQL, validaciones, manejo de errores y Git.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001704 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1774
+%%EOF
